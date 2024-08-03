@@ -1,4 +1,4 @@
-# Airbnb project using POWERBI
+# Airbnb-Data Analysis-PowerBI
 
 Google Drive Link for PowerBI project(pbix file ):  https://drive.google.com/file/d/1p9PlJF022FbGeBc7wV3zJzmLAlD4wkNc/view?usp=drive_link
 
